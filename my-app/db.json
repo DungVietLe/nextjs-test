@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 13 Pro",
+      "price": "99$",
+      "condition": "used",
+      "url": "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/rev-07875ad/wp-content/uploads/2021/09/iPhone_13_PDP_Position-1A_Color_PRODUCTRED__VN-1200x1200.jpg"
+    },
+    {
+      "id": "2",
+      "name": "iPhone 13 Pro Max",
+      "price": "1999$",
+      "condition": "new",
+      "url": "https://cdn-dgcei.nitrocdn.com/QaFavQVnaqgHtiSsAelwGDKVguOuACXM/assets/static/optimized/rev-07875ad/wp-content/uploads/2021/09/mau-trang-1-1.png"
+
+    },
+    {
+      "id": "3",
+      "name": "iPhone 12 Pro",
+      "price": "10000000$",
+      "condition": "new",
+      "url": "https://shopdunk.com/wp-content/uploads/2021/05/ip12-black.png"
+    }
+  ]
+}
